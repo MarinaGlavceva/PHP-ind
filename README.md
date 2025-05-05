@@ -1,5 +1,5 @@
 
-#  Индивидуальная работа "Дневник задач"**
+#  Индивидуальная работа "Дневник задач"
 
 ---
 
@@ -143,7 +143,6 @@
 - [PHP Manual](https://www.php.net/manual/ru/)
 - [PDO Документация](https://www.php.net/manual/ru/book.pdo.php)
 - [MDN Web Docs: HTML Forms](https://developer.mozilla.org/ru/docs/Web/HTML/Element/form)
-- [Bootstrap](https://getbootstrap.com/) (если использовался)
 
 ---
 
@@ -161,13 +160,13 @@
 1️⃣ Клонируйте репозиторий:
 
 ```
-git clone https://github.com/ваш-репозиторий/task-diary.git
+git clone[ https://github.com/ваш-репозиторий/task-diary.git](https://github.com/MarinaGlavceva/PHP-ind)
 ```
 
 2️⃣ Разверните на локальном сервере (например, XAMPP):
 
 - Папка: `/htdocs/task-diary/`
-- Импортируйте дамп базы данных (файл `database.sql` если есть).
+- Импортируйте дамп базы данных.
 - Настройте `config.php` с вашими параметрами БД.
 
 3️⃣ Откройте в браузере:
