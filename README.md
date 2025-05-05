@@ -155,23 +155,5 @@
 
 ---
 
-#  Инструкции по запуску
 
-1️⃣ Клонируйте репозиторий:
-
-```
-git clone[ https://github.com/ваш-репозиторий/task-diary.git](https://github.com/MarinaGlavceva/PHP-ind)
-```
-
-2️⃣ Разверните на локальном сервере (например, XAMPP):
-
-- Папка: `/htdocs/task-diary/`
-- Импортируйте дамп базы данных.
-- Настройте `config.php` с вашими параметрами БД.
-
-3️⃣ Откройте в браузере:
-
-```
-http://localhost/task-diary/
-```
 
