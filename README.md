@@ -101,7 +101,7 @@
 
 - **Панель пользователя:**
 
-![Панель пользователя](screenshots/dashboard.png)
+![Image](https://github.com/user-attachments/assets/056f37b0-4adb-4988-8c07-313e125c469c)
 
 - **Создание задачи:**
 
