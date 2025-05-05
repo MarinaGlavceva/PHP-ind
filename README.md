@@ -115,7 +115,7 @@
 
 - **Админка:**
 
-![Админка](screenshots/admin.png)
+![Image](https://github.com/user-attachments/assets/927b4719-1ace-4d0c-be6a-9ec187c2636d)
 
 ---
 
