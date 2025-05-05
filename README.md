@@ -97,7 +97,7 @@
 
 - **Форма регистрации:**
 
-![Регистрация](screenshots/register.png)
+![Image](https://github.com/user-attachments/assets/60cbceb7-2cc3-4d2e-b1dc-cdb97d53dce7)
 
 - **Панель пользователя:**
 
